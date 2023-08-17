@@ -1,0 +1,12 @@
+etcdctl backup
+etcdctl cluster-health
+etcdctl mk
+etcdctl mkdir
+etcdctl set
+
+Whereas the commands are different in version 3
+
+etcdctl snapshot save
+etcdctl endpoint health
+etcdctl get
+etcdctl put
